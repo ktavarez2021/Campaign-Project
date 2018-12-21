@@ -1,0 +1,55 @@
+.color{
+    display:flex;
+    justify-content:center;
+    background-color:lightblue;
+    color:white;
+    border:5px dotted white;
+}
+body{
+    background: url("https://i.pinimg.com/originals/c2/08/50/c208502c50258a2b9c0af2e36e2e83d8.png");
+}
+h3{
+    display:flex;
+    justify-content:center;
+    color:white;
+    background-color:gray;
+    border:5px dotted white;
+    padding:5px;
+}
+.donate{
+    display:flex;
+    justify-content:center;
+    background: url("https://pbs.twimg.com/media/DtS23YeUcAAhqqn.jpg");
+    padding:50px;
+    border:3px dotted white;
+}
+button{
+    padding:7px;
+    color:white;
+    background-color:lightgray;
+}
+h2{
+    display:flex;
+    justify-content:center;
+    background-color:lightgray;
+    padding:15px;
+    border:3px dotted white;
+    color:white;
+}
+.pic{
+    display:flex;
+    justify-content:center;
+}
+img{
+    width:200px;
+    height:300px;
+    border:2px dotted white;
+    background:black;
+    
+}
+.abouthim{
+    color:white;
+    background-color:lightblue;
+    font-size:12px;
+    border:7px dotted white;
+}
